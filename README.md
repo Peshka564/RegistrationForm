@@ -7,7 +7,7 @@ Features:<br/>
 - Name change<br/>
 <br/>
 Frontend - Vanilla JS, HTML, CSS<br/>
-Backend - Node.js, **NO** Express<br/>
+Backend - Node.js WITHOUT Express<br/>
 Database - Mysql<br/>
 <br/>
 Used NPM packages:<br/>
